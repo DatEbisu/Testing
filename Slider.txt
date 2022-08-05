@@ -3,4 +3,5 @@ Slider
 	from:0
 	to:30
 	value:6
+	onValueChanged: console.log("Value: "+value)
 }
