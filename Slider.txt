@@ -1,0 +1,6 @@
+Slider
+{
+	from:0
+	to:30
+	value:6
+}
