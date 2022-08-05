@@ -1,0 +1,5 @@
+Button
+{
+	text:"click me"
+	onClicked: console.log("Update Hello world")	
+}
