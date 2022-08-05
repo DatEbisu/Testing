@@ -1,6 +1,5 @@
 Button
 {
 	text:"click me"
-	onClicked:
-		console.log("Hello world")	
+	onClicked: console.log("Update Hello world")	
 }
