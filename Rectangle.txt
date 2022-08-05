@@ -1,0 +1,6 @@
+Rectangle
+{
+	width:200
+	height:50
+	color:"blue"
+}
